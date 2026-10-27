@@ -4,4 +4,4 @@
     )
 }}
 
-SELECT * FROM raw.globalmart.product
+SELECT * FROM raw.globalmart.product 
